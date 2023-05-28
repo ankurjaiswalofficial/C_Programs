@@ -17,11 +17,11 @@ int main()
     }
     if (value_store == value_holder)
     {
-        printf("%d is a Palindrome Number.");
+        printf("%d is a Palindrome Number.", value_store);
     }
     else
     {
-        printf("%d is not a Palindrome Number.");
+        printf("%d is not a Palindrome Number.", value_store);
     }
 
     return 0;
