@@ -4,93 +4,93 @@ C Programs Learning Phase Programs
 In Progress
 
 # Coding question in C on Numbers
-<h3>Write a program to reverse an integer in C.</h3>
-<h3>Write a program in C to check whether an integer is Armstrong number or not.</h3>
-<h3>Write a program in C to check given number is prime or not.</h3>
-<h3>Write a program in C to print the Fibonacci series using iteration.</h3>
-<h3>Write a program in C to print the Fibonacci series using recursion.</h3>
-<h3>Write a program in C to check whether a number is palindrome or not using iteration.</h3>
-<h3>Write a program in C to check whether a number is palindrome or not using recursion.</h3>
-<h3>Write a program in C to find greatest among three integers.</h3>
-<h3>Write a program in C to check if a number is binary.</h3>
-<h3>Write a program in C to find sum of digits of a number using recursion.</h3>
-<h3>Write a program in C to swap two numbers without using third variable.</h3>
-<h3>Write a program in C to swap two numbers using third variable.</h3>
-<h3>Write a program in C to find prime factors of a given integer.</h3>
-<h3>Write a program in C to add two integer without using arithmetic + operator.</h3>
-<h3>Write a program in C to check given number is perfect or not.</h3>
-<h3>C Program to find the Average of numbers with explanations.</h3>
-<h3>C Program to calculate factorial using iterative method.</h3>
-<h3>C Program to calculate factorial using recursion.</h3>
-<h3>C Program to check a given number is even or odd.</h3>
-<h3>C program to print first n Prime Number with explanation.</h3>
-<h3>C Program to print Prime Number in a given range</h3>
-<h3>C Program to find Smallest number among three.</h3>
-<h3>C program to calculate the power using the POW method.</h3>
-<h3>C Program to calculate the power without using POW function.</h3>
-<h3>C Program to calculate the square of a given number.</h3>
-<h3>C Program to calculate the cube of a given number</h3>
-<h3>C Program to calculate the square root of a given number.</h3>
-<h3>C program to calculate LCM of given two numbers.</h3>
-<h3>C Program to find GCD or HCF of two numbers.</h3>
-<h3>C Program to find GCD of two numbers using recursion.</h3>
-<h3>C Program to Convert Decimal Number into Binary.</h3>
-<h3>C Program to convert Decimal number to Octal number.</h3>
-<h3>C Program to check the given year is a leap year or not.</h3>
-<h3>C Program to convert Celsius to Fahrenheit.</h3>
-<h3>C Program to convert Fahrenheit to Celsius.</h3>
-<h3>C program to calculate Simple Interest with explanation.</h3>
+<h4>Write a program to reverse an integer in C.</h4>
+<h4>Write a program in C to check whether an integer is Armstrong number or not.</h4>
+<h4>Write a program in C to check given number is prime or not.</h4>
+<h4>Write a program in C to print the Fibonacci series using iteration.</h4>
+<h4>Write a program in C to print the Fibonacci series using recursion.</h4>
+<h4>Write a program in C to check whether a number is palindrome or not using iteration.</h4>
+<h4>Write a program in C to check whether a number is palindrome or not using recursion.</h4>
+<h4>Write a program in C to find greatest among three integers.</h4>
+<h4>Write a program in C to check if a number is binary.</h4>
+<h4>Write a program in C to find sum of digits of a number using recursion.</h4>
+<h4>Write a program in C to swap two numbers without using third variable.</h4>
+<h4>Write a program in C to swap two numbers using third variable.</h4>
+<h4>Write a program in C to find prime factors of a given integer.</h4>
+<h4>Write a program in C to add two integer without using arithmetic + operator.</h4>
+<h4>Write a program in C to check given number is perfect or not.</h4>
+<h4>C Program to find the Average of numbers with explanations.</h4>
+<h4>C Program to calculate factorial using iterative method.</h4>
+<h4>C Program to calculate factorial using recursion.</h4>
+<h4>C Program to check a given number is even or odd.</h4>
+<h4>C program to print first n Prime Number with explanation.</h4>
+<h4>C Program to print Prime Number in a given range</h4>
+<h4>C Program to find Smallest number among three.</h4>
+<h4>C program to calculate the power using the POW method.</h4>
+<h4>C Program to calculate the power without using POW function.</h4>
+<h4>C Program to calculate the square of a given number.</h4>
+<h4>C Program to calculate the cube of a given number</h4>
+<h4>C Program to calculate the square root of a given number.</h4>
+<h4>C program to calculate LCM of given two numbers.</h4>
+<h4>C Program to find GCD or HCF of two numbers.</h4>
+<h4>C Program to find GCD of two numbers using recursion.</h4>
+<h4>C Program to Convert Decimal Number into Binary.</h4>
+<h4>C Program to convert Decimal number to Octal number.</h4>
+<h4>C Program to check the given year is a leap year or not.</h4>
+<h4>C Program to convert Celsius to Fahrenheit.</h4>
+<h4>C Program to convert Fahrenheit to Celsius.</h4>
+<h4>C program to calculate Simple Interest with explanation.</h4>
 
 # C coding questions on String
-<h3>Write a method in C which will remove any given character from a String.</h3>
-<h3>Write a program in C to count occurrence of a given character in a String.</h3>
-<h3>Write a program in C to check if two Strings are Anagram.</h3>
-<h3>Write a program in C to check a String is palindrome or not.</h3>
-<h3>C program to check given character is vowel or consonant.</h3>
-<h3>C program to check given character is digit or not.</h3>
-<h3>C program to replace the string space with a given character.</h3>
-<h3>C program to convert lowercase char to uppercase of string.</h3>
-<h3>C program to convert lowercase vowel to uppercase in string.</h3>
-<h3>C program to delete vowels in a given string.</h3>
-<h3>C program to count Occurrence Of Vowels & Consonants in a String.</h3>
-<h3>C program to print the highest frequency character in a String.</h3>
-<h3>C program to Replace First Occurrence Of Vowel With ‘-‘ in String.</h3>
-<h3>C program to count alphabets, digits and special characters.</h3>
-<h3>C program to separate characters in a given string.</h3>
-<h3>C program to remove blank space from string.</h3>
-<h3>C program to remove blank space from string.</h3>
-<h3>C program to concatenate two strings.</h3>
-<h3>C program to remove repeated character from string.</h3>
-<h3>C program to calculate sum of integers in string.</h3>
-<h3>C program to print all non repeating character in string.</h3>
-<h3>C program to copy one string to another string.</h3>
-<h3>C Program to sort characters of string.</h3>
-<h3>C Program to sort character of string in descending order.</h3>
+<h4>Write a method in C which will remove any given character from a String.</h4>
+<h4>Write a program in C to count occurrence of a given character in a String.</h4>
+<h4>Write a program in C to check if two Strings are Anagram.</h4>
+<h4>Write a program in C to check a String is palindrome or not.</h4>
+<h4>C program to check given character is vowel or consonant.</h4>
+<h4>C program to check given character is digit or not.</h4>
+<h4>C program to replace the string space with a given character.</h4>
+<h4>C program to convert lowercase char to uppercase of string.</h4>
+<h4>C program to convert lowercase vowel to uppercase in string.</h4>
+<h4>C program to delete vowels in a given string.</h4>
+<h4>C program to count Occurrence Of Vowels & Consonants in a String.</h4>
+<h4>C program to print the highest frequency character in a String.</h4>
+<h4>C program to Replace First Occurrence Of Vowel With ‘-‘ in String.</h4>
+<h4>C program to count alphabets, digits and special characters.</h4>
+<h4>C program to separate characters in a given string.</h4>
+<h4>C program to remove blank space from string.</h4>
+<h4>C program to remove blank space from string.</h4>
+<h4>C program to concatenate two strings.</h4>
+<h4>C program to remove repeated character from string.</h4>
+<h4>C program to calculate sum of integers in string.</h4>
+<h4>C program to print all non repeating character in string.</h4>
+<h4>C program to copy one string to another string.</h4>
+<h4>C Program to sort characters of string.</h4>
+<h4>C Program to sort character of string in descending order.</h4>
 
 # Coding Questions in C on Array
-<h3>Write a program in C for, In array 1-100 numbers are stored, one number is missing how do you find it.</h3>
-<h3>Write a program in C for, In a array 1-100 multiple numbers are duplicates, how do you find it.</h3>
-<h3>Write a program in C to find first duplicate number in a given array.</h3>
-<h3>Write a program in C to remove duplicate elements form array in C.</h3>
-<h3>Write a program in C for, Given two arrays 1,2,3,4,5 and 2,3,1,0,5 find which number is not present in the second array.</h3>
-<h3>Write a program in C for, How to compare two array is equal in size or not.</h3>
-<h3>Write a program in C to find largest and smallest number in array.</h3>
-<h3>Write a program in C to find second highest number in an integer array.</h3>
-<h3>Write a program in C to find top two maximum number in array?</h3>
-<h3>C program to print array in reverse Order.</h3>
-<h3>C program to reverse an Array in two ways.</h3>
-<h3>C Program to calculate length of an array.</h3>
-<h3>C program to insert an element at end of an Array.</h3>
-<h3>C program to insert element at a given location in Array.</h3>
-<h3>C Program to delete element at end of Array.</h3>
-<h3>C Program to delete given element from Array.</h3>
-<h3>C Program to delete element from array at given index.</h3>
-<h3>C Program to find sum of array elements.</h3>
-<h3>C Program to print all even numbers in array.</h3>
-<h3>C Program to print all odd numbers in array.</h3>
-<h3>C program to perform left rotation of array elements by two positions.</h3>
-<h3>C program to perform right rotation in array by 2 positions.</h3>
-<h3>C Program to merge two arrays.</h3>
-<h3>C Program to find highest frequency element in array.</h3>
-<h3>C Program to add two number using recursion.</h3>
-<h3>C Program to find sum of digit of number using recursion.</h3>
+<h4>Write a program in C for, In array 1-100 numbers are stored, one number is missing how do you find it.</h4>
+<h4>Write a program in C for, In a array 1-100 multiple numbers are duplicates, how do you find it.</h4>
+<h4>Write a program in C to find first duplicate number in a given array.</h4>
+<h4>Write a program in C to remove duplicate elements form array in C.</h4>
+<h4>Write a program in C for, Given two arrays 1,2,3,4,5 and 2,3,1,0,5 find which number is not present in the second array.</h4>
+<h4>Write a program in C for, How to compare two array is equal in size or not.</h4>
+<h4>Write a program in C to find largest and smallest number in array.</h4>
+<h4>Write a program in C to find second highest number in an integer array.</h4>
+<h4>Write a program in C to find top two maximum number in array?</h4>
+<h4>C program to print array in reverse Order.</h4>
+<h4>C program to reverse an Array in two ways.</h4>
+<h4>C Program to calculate length of an array.</h4>
+<h4>C program to insert an element at end of an Array.</h4>
+<h4>C program to insert element at a given location in Array.</h4>
+<h4>C Program to delete element at end of Array.</h4>
+<h4>C Program to delete given element from Array.</h4>
+<h4>C Program to delete element from array at given index.</h4>
+<h4>C Program to find sum of array elements.</h4>
+<h4>C Program to print all even numbers in array.</h4>
+<h4>C Program to print all odd numbers in array.</h4>
+<h4>C program to perform left rotation of array elements by two positions.</h4>
+<h4>C program to perform right rotation in array by 2 positions.</h4>
+<h4>C Program to merge two arrays.</h4>
+<h4>C Program to find highest frequency element in array.</h4>
+<h4>C Program to add two number using recursion.</h4>
+<h4>C Program to find sum of digit of number using recursion.</h4>
