@@ -4,13 +4,13 @@ C Programs Learning Phase Programs
 In Progress
 
 # Coding question in C on Numbers
-<h4>✅ [Write a program to reverse an integer in C.](reverseInteger.c)</h4>
-<h4>✅ [Write a program in C to check whether an integer is Armstrong number or not.](armstrongNumber.c)</h4>
-<h4>✅ [Write a program in C to check given number is prime or not.](checkPrimeNumber.c)</h4>
-<h4>✅ [Write a program in C to print the Fibonacci series using iteration.](fibonacciSeriesIteration.c)</h4>
-<h4>✅ [Write a program in C to print the Fibonacci series using recursion.](fibonacciSeriesRecursion.c)</h4>
-<h4>✅ [Write a program in C to check whether a number is palindrome or not using iteration.](checkPalindromeIteration.c)</h4>
-<h4>✅ [Write a program in C to check whether a number is palindrome or not using recursion.](checkPalindromeNumberRecursion.c)</h4>
+<h4>✅ Write a program to reverse an integer in C.[a relative link](reverseInteger.c)</h4>
+<h4>✅ Write a program in C to check whether an integer is Armstrong number or not.[a relative link](armstrongNumber.c)</h4>
+<h4>✅ Write a program in C to check given number is prime or not.[a relative link](checkPrimeNumber.c)</h4>
+<h4>✅ Write a program in C to print the Fibonacci series using iteration.[a relative link](fibonacciSeriesIteration.c)</h4>
+<h4>✅ Write a program in C to print the Fibonacci series using recursion.[a relative link](fibonacciSeriesRecursion.c)</h4>
+<h4>✅ Write a program in C to check whether a number is palindrome or not using iteration.[a relative link](checkPalindromeIteration.c)</h4>
+<h4>✅ Write a program in C to check whether a number is palindrome or not using recursion.[a relative link](checkPalindromeNumberRecursion.c)</h4>
 <h4>Write a program in C to find greatest among three integers.</h4>
 <h4>Write a program in C to check if a number is binary.</h4>
 <h4>Write a program in C to find sum of digits of a number using recursion.</h4>
