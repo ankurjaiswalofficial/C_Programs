@@ -4,13 +4,13 @@ C Programs Learning Phase Programs
 In Progress
 
 # Coding question in C on Numbers
-<h4>✅ [Write a program to reverse an integer in C.](https://github.com/ankurjaiswalofficial/C_Programs/blob/main/SreverseInteger.c)</h4>
-<h4>✅ [Write a program in C to check whether an integer is Armstrong number or not.](https://github.com/ankurjaiswalofficial/C_Programs/blob/main/SarmstrongNumber.c)</h4>
-<h4>✅ [Write a program in C to check given number is prime or not.](https://github.com/ankurjaiswalofficial/C_Programs/blob/main/ScheckPrimeNumber.c)</h4>
-<h4>✅ [Write a program in C to print the Fibonacci series using iteration.](https://github.com/ankurjaiswalofficial/C_Programs/blob/main/SfibonacciSeriesIteration.c)</h4>
-<h4>✅ [Write a program in C to print the Fibonacci series using recursion.](https://github.com/ankurjaiswalofficial/C_Programs/blob/main/SfibonacciSeriesRecursion.c)</h4>
-<h4>✅ [Write a program in C to check whether a number is palindrome or not using iteration.](https://github.com/ankurjaiswalofficial/C_Programs/blob/main/ScheckPalindromeIteration.c)</h4>
-<h4>✅ [Write a program in C to check whether a number is palindrome or not using recursion.](https://github.com/ankurjaiswalofficial/C_Programs/blob/main/ScheckPalindromeNumberRecursion.c)</h4>
+<h4>✅ [Write a program to reverse an integer in C.](https://github.com/ankurjaiswalofficial/C_Programs/blob/main/reverseInteger.c)</h4>
+<h4>✅ [Write a program in C to check whether an integer is Armstrong number or not.](https://github.com/ankurjaiswalofficial/C_Programs/blob/main/armstrongNumber.c)</h4>
+<h4>✅ [Write a program in C to check given number is prime or not.](https://github.com/ankurjaiswalofficial/C_Programs/blob/main/checkPrimeNumber.c)</h4>
+<h4>✅ [Write a program in C to print the Fibonacci series using iteration.](https://github.com/ankurjaiswalofficial/C_Programs/blob/main/fibonacciSeriesIteration.c)</h4>
+<h4>✅ [Write a program in C to print the Fibonacci series using recursion.](https://github.com/ankurjaiswalofficial/C_Programs/blob/main/fibonacciSeriesRecursion.c)</h4>
+<h4>✅ [Write a program in C to check whether a number is palindrome or not using iteration.](https://github.com/ankurjaiswalofficial/C_Programs/blob/main/checkPalindromeIteration.c)</h4>
+<h4>✅ [Write a program in C to check whether a number is palindrome or not using recursion.](https://github.com/ankurjaiswalofficial/C_Programs/blob/main/checkPalindromeNumberRecursion.c)</h4>
 <h4>Write a program in C to find greatest among three integers.</h4>
 <h4>Write a program in C to check if a number is binary.</h4>
 <h4>Write a program in C to find sum of digits of a number using recursion.</h4>
