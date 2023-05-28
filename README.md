@@ -40,8 +40,8 @@ In Progress
 <h3>C Program to convert Celsius to Fahrenheit.</h3>
 <h3>C Program to convert Fahrenheit to Celsius.</h3>
 <h3>C program to calculate Simple Interest with explanation.</h3>
-<h3>
-</h3># C coding questions on String
+
+# C coding questions on String
 <h3>Write a method in C which will remove any given character from a String.</h3>
 <h3>Write a program in C to count occurrence of a given character in a String.</h3>
 <h3>Write a program in C to check if two Strings are Anagram.</h3>
@@ -66,8 +66,8 @@ In Progress
 <h3>C program to copy one string to another string.</h3>
 <h3>C Program to sort characters of string.</h3>
 <h3>C Program to sort character of string in descending order.</h3>
-<h3>
-</h3># Coding Questions in C on Array
+
+# Coding Questions in C on Array
 <h3>Write a program in C for, In array 1-100 numbers are stored, one number is missing how do you find it.</h3>
 <h3>Write a program in C for, In a array 1-100 multiple numbers are duplicates, how do you find it.</h3>
 <h3>Write a program in C to find first duplicate number in a given array.</h3>
