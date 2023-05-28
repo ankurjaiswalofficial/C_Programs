@@ -4,12 +4,12 @@ C Programs Learning Phase Programs
 In Progress
 
 # Coding question in C on Numbers
-<h4>Write a program to reverse an integer in C.</h4>
-<h4>Write a program in C to check whether an integer is Armstrong number or not.</h4>
-<h4>Write a program in C to check given number is prime or not.</h4>
-<h4>Write a program in C to print the Fibonacci series using iteration.</h4>
-<h4>Write a program in C to print the Fibonacci series using recursion.</h4>
-<h4>Write a program in C to check whether a number is palindrome or not using iteration.</h4>
+<h4>✅Write a program to reverse an integer in C.</h4>
+<h4>✅Write a program in C to check whether an integer is Armstrong number or not.</h4>
+<h4>✅Write a program in C to check given number is prime or not.</h4>
+<h4>✅Write a program in C to print the Fibonacci series using iteration.</h4>
+<h4>✅Write a program in C to print the Fibonacci series using recursion.</h4>
+<h4>✅Write a program in C to check whether a number is palindrome or not using iteration.</h4>
 <h4>Write a program in C to check whether a number is palindrome or not using recursion.</h4>
 <h4>Write a program in C to find greatest among three integers.</h4>
 <h4>Write a program in C to check if a number is binary.</h4>
