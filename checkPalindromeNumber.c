@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Palindrome Number ==> 121 == 121
+// Palindrome Number Check Using Iteration ==> 121 == 121
 // If the number is reversed its value remains the same.
 
 int main()
