@@ -11,12 +11,12 @@ In Progress
 <h4>✅ Write a program in C to print the Fibonacci series using recursion.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/fibonacciSeriesRecursion.c</h4>
 <h4>✅ Write a program in C to check whether a number is palindrome or not using iteration.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/checkPalindromeIteration.c</h4>
 <h4>✅ Write a program in C to check whether a number is palindrome or not using recursion.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/checkPalindromeNumberRecursion.c</h4>
-<h4>Write a program in C to find greatest among three integers.</h4>
-<h4>Write a program in C to check if a number is binary.</h4>
-<h4>Write a program in C to find sum of digits of a number using recursion.</h4>
-<h4>Write a program in C to swap two numbers without using third variable.</h4>
-<h4>Write a program in C to swap two numbers using third variable.</h4>
-<h4>Write a program in C to find prime factors of a given integer.</h4>
+<h4>✅ Write a program in C to find greatest among three integers.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/greatestNumberAmongThree.c</h4>
+<h4>✅ Write a program in C to check if a number is binary.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/checkNumberIsBinary.c</h4>
+<h4>✅ Write a program in C to find sum of digits of a number using recursion.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/sumOfDigitsOfNumberRecursion.c</h4>
+<h4>✅ Write a program in C to swap two numbers without using third variable.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/swapTwoNumbersWithoutThirdVariable.c</h4>
+<h4>✅ Write a program in C to swap two numbers using third variable.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/swapTwoNumbersUsingThirdVariable.c</h4>
+<h4>✅ Write a program in C to find prime factors of a given integer.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/primeFactorsOfGivenNumber.c</h4>
 <h4>Write a program in C to add two integer without using arithmetic + operator.</h4>
 <h4>Write a program in C to check given number is perfect or not.</h4>
 <h4>C Program to find the Average of numbers with explanations.</h4>
