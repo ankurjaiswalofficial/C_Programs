@@ -25,7 +25,7 @@ In Progress
 <h4>✅ C Program to check a given number is even or odd.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/checkEvenOrOddNumber.c</h4>
 <h4>✅ C program to print first n Prime Number with explanation.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/firstN_PrimeNumbersWithExplanation.c</h4>
 <h4>✅ C Program to print Prime Number in a given range<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/primeNumbersInRange.c</h4>
-<h4>C Program to find Smallest number among three.</h4>
+<h4>C✅  Program to find Smallest number among three.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/smallestNumberAmongThree.c</h4>
 <h4>C program to calculate the power using the POW method.</h4>
 <h4>C Program to calculate the power without using POW function.</h4>
 <h4>C Program to calculate the square of a given number.</h4>
