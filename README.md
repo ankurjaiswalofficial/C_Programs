@@ -17,9 +17,9 @@ In Progress
 <h4>✅ Write a program in C to swap two numbers without using third variable.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/swapTwoNumbersWithoutThirdVariable.c</h4>
 <h4>✅ Write a program in C to swap two numbers using third variable.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/swapTwoNumbersUsingThirdVariable.c</h4>
 <h4>✅ Write a program in C to find prime factors of a given integer.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/primeFactorsOfGivenNumber.c</h4>
-<h4>✅ Write a program in C to add two integer without using arithmetic + operator.</h4>
-<h4>✅ Write a program in C to check given number is perfect or not.</h4>
-<h4>✅ C Program to find the Average of numbers with explanations.</h4>
+<h4>✅ Write a program in C to add two integer without using arithmetic + operator.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/addingNumbersWithoutArithemaitic+Operator.c</h4>
+<h4>✅ Write a program in C to check given number is perfect or not.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/checkWhetherPerfectNumberOrNot.c</h4>
+<h4>✅ C Program to find the Average of numbers with explanations.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/averageOfNumberWithExplanation.c</h4>
 <h4>C Program to calculate factorial using iterative method.</h4>
 <h4>C Program to calculate factorial using recursion.</h4>
 <h4>C Program to check a given number is even or odd.</h4>
