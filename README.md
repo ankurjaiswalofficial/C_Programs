@@ -20,8 +20,8 @@ In Progress
 <h4>✅ Write a program in C to add two integer without using arithmetic + operator.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/addingNumbersWithoutArithemaitic+Operator.c</h4>
 <h4>✅ Write a program in C to check given number is perfect or not.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/checkWhetherPerfectNumberOrNot.c</h4>
 <h4>✅ C Program to find the Average of numbers with explanations.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/averageOfNumberWithExplanation.c</h4>
-<h4>C Program to calculate factorial using iterative method.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/factorialUsingIterativeMethod.c</h4>
-<h4>C Program to calculate factorial using recursion.</h4>
+<h4>✅ C Program to calculate factorial using iterative method.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/factorialUsingIterativeMethod.c</h4>
+<h4>✅ C Program to calculate factorial using recursion.https://github.com/ankurjaiswalofficial/C_Programs/blob/main/factorialUsingRecursiveMethod.c</h4>
 <h4>C Program to check a given number is even or odd.</h4>
 <h4>C program to print first n Prime Number with explanation.</h4>
 <h4>C Program to print Prime Number in a given range</h4>
