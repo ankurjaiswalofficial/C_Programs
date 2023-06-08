@@ -30,7 +30,7 @@ In Progress
 <h4>✅ C Program to calculate the power without using POW function.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/calculatePowerWithoutUsing_powMethod.c</h4>
 <h4>✅ C Program to calculate the square of a given number.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/squareOfGivenNumber.c</h4>
 <h4>✅ C Program to calculate the cube of a given number<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/cubeOfGivenNumber.c</h4>
-<h4>C Program to calculate the square root of a given number.</h4>
+<h4>✅ C Program to calculate the square root of a given number.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/squareRootOfNumber.c</h4>
 <h4>C program to calculate LCM of given two numbers.</h4>
 <h4>C Program to find GCD or HCF of two numbers.</h4>
 <h4>C Program to find GCD of two numbers using recursion.</h4>
