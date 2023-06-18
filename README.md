@@ -34,7 +34,7 @@ In Progress
 <h4>✅ C program to calculate LCM of given two numbers.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/calculateLCMofTwoNumbers.c</h4>
 <h4>✅ C Program to find GCD or HCF of two numbers.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/calculateGCDOfTwoNumber.c</h4>
 <h4>✅ C Program to find GCD of two numbers using recursion.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/calculateGCDOfTwoNumberUsingRecursion.c</h4>
-<h4>C Program to Convert Decimal Number into Binary.</h4>
+<h4>✅ C Program to Convert Decimal Number into Binary.<br>https://github.com/ankurjaiswalofficial/C_Programs/blob/main/convertDecimalToBinary.c</h4>
 <h4>C Program to convert Decimal number to Octal number.</h4>
 <h4>C Program to check the given year is a leap year or not.</h4>
 <h4>C Program to convert Celsius to Fahrenheit.</h4>
