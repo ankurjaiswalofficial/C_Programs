@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-// Fibonacci series using Iteration
-
 int main()
 {
     int times, num1 = 0, num2 = 1, temp;
